@@ -12,6 +12,12 @@ Important: application guidelines may vary by sub-organizations or funding progr
 
 Please refer the following for a list of affiliated projects: https://gcos.ai/projects
 
-# Contributor Guide
+* [`pytorch-forecasting` project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md#pytorch-forecasting)
+* [`skpro` project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md#skpro)
+* [`sktime` project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md#sktime)
 
-TODO: Add details for contributor guide here.
+# Contributor Guides
+
+
+* [`skpro` contributor guide](https://skpro.readthedocs.io/en/latest/developer_guide.html)
+* [`sktime` contributor guide](https://www.sktime.net/en/latest/get_involved/contributing.html)
