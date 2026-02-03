@@ -7,3 +7,7 @@ information and links to idea lists, application guidelines, and other relevant 
 # Sub Organizations
 
 Please refer the following for a list of affiliated projects: https://gcos.ai/projects
+
+# Contributor Guide
+
+<TODO>: Add details for contributor guide here.
